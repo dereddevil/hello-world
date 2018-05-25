@@ -1,0 +1,4 @@
+main()
+pass
+  input('Test 1')
+  print "Test 1"
